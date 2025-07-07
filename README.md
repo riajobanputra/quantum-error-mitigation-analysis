@@ -8,7 +8,7 @@ This project addresses one of the most critical challenges in quantum computing:
 
 ## Key Results
 
-- **Noise Characterization**: Analyzed 4 different realistic noise models
+- **Noise Characterisation**: Analyzed 4 different realistic noise models
 - **Error Mitigation**: Implemented 3 advanced mitigation techniques
 - **Performance Recovery**: Achieved up to 25% error reduction
 - **Comparative Analysis**: Comprehensive evaluation of method effectiveness
@@ -29,7 +29,7 @@ This project addresses one of the most critical challenges in quantum computing:
 ## Project Structure
 ```
 quantum-error-mitigation-analysis/
-├── 01_Quantum_Noise_Analysis.ipynb     # Noise characterization and analysis
+├── 01_Quantum_Noise_Analysis.ipynb     # Noise characterisation and analysis
 ├── 02_Error_Mitigation.ipynb           # Implementation of mitigation techniques
 └── README.md                           # Project documentation
 ```
@@ -39,14 +39,14 @@ quantum-error-mitigation-analysis/
 - **Qiskit**: Quantum computing framework and noise simulation
 - **Qiskit Aer**: High-performance quantum circuit simulators
 - **NumPy**: Numerical computing and linear algebra
-- **Matplotlib/Seaborn**: Scientific visualization and analysis
-- **SciPy**: Advanced mathematical functions and optimization
+- **Matplotlib/Seaborn**: Scientific visualisation and analysis
+- **SciPy**: Advanced mathematical functions and optimisation
 
 ## Skills Demonstrated
 
 ### Quantum Error Analysis
 - Realistic noise model development and implementation
-- Error rate characterization across different noise scenarios
+- Error rate characterisation across different noise scenarios
 - Circuit depth scaling analysis and error accumulation studies
 - Statistical fidelity analysis and error quantification
 
@@ -57,9 +57,9 @@ quantum-error-mitigation-analysis/
 - Comparative effectiveness analysis
 
 ### Scientific Computing
-- Professional visualization and data presentation
+- Professional visualisation and data presentation
 - Statistical analysis and performance benchmarking
-- Algorithm optimization and computational efficiency
+- Algorithm optimisation and computational efficiency
 - Research methodology and experimental design
 
 ## Results Summary
@@ -81,14 +81,14 @@ quantum-error-mitigation-analysis/
 ### Near-term Quantum Computing
 - NISQ device performance optimization
 - Quantum algorithm reliability improvement
-- Hardware noise characterization protocols
+- Hardware noise characterisation protocols
 - Error budget analysis for quantum applications
 
 ### Research and Development
 - Quantum error correction research
 - Hardware benchmarking and validation
 - Algorithm robustness testing
-- Performance optimization strategies
+- Performance optimisation strategies
 
 ## Future Extensions
 
